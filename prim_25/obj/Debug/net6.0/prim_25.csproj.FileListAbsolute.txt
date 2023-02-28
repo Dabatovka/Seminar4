@@ -1,0 +1,15 @@
+C:\Users\Евгений\Desktop\GeekBrains\DZ_Etalon\prim_25\bin\Debug\net6.0\prim_25.exe
+C:\Users\Евгений\Desktop\GeekBrains\DZ_Etalon\prim_25\bin\Debug\net6.0\prim_25.deps.json
+C:\Users\Евгений\Desktop\GeekBrains\DZ_Etalon\prim_25\bin\Debug\net6.0\prim_25.runtimeconfig.json
+C:\Users\Евгений\Desktop\GeekBrains\DZ_Etalon\prim_25\bin\Debug\net6.0\prim_25.dll
+C:\Users\Евгений\Desktop\GeekBrains\DZ_Etalon\prim_25\bin\Debug\net6.0\prim_25.pdb
+C:\Users\Евгений\Desktop\GeekBrains\DZ_Etalon\prim_25\obj\Debug\net6.0\prim_25.csproj.AssemblyReference.cache
+C:\Users\Евгений\Desktop\GeekBrains\DZ_Etalon\prim_25\obj\Debug\net6.0\prim_25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Евгений\Desktop\GeekBrains\DZ_Etalon\prim_25\obj\Debug\net6.0\prim_25.AssemblyInfoInputs.cache
+C:\Users\Евгений\Desktop\GeekBrains\DZ_Etalon\prim_25\obj\Debug\net6.0\prim_25.AssemblyInfo.cs
+C:\Users\Евгений\Desktop\GeekBrains\DZ_Etalon\prim_25\obj\Debug\net6.0\prim_25.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\Desktop\GeekBrains\DZ_Etalon\prim_25\obj\Debug\net6.0\prim_25.dll
+C:\Users\Евгений\Desktop\GeekBrains\DZ_Etalon\prim_25\obj\Debug\net6.0\refint\prim_25.dll
+C:\Users\Евгений\Desktop\GeekBrains\DZ_Etalon\prim_25\obj\Debug\net6.0\prim_25.pdb
+C:\Users\Евгений\Desktop\GeekBrains\DZ_Etalon\prim_25\obj\Debug\net6.0\prim_25.genruntimeconfig.cache
+C:\Users\Евгений\Desktop\GeekBrains\DZ_Etalon\prim_25\obj\Debug\net6.0\ref\prim_25.dll
